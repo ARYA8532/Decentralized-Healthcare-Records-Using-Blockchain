@@ -32,7 +32,9 @@ Make sure the following tools are installed:
 
 --> git clone https://github.com/ARYA8532/Decentralized-Healthcare-Records-Using-Blockchain.git
     cd Decentralized-Healthcare-Records-Using-Blockchain
+    
 📁 3. Install Dependencies ---  npm install
+
 🔧 4. Configure IPFS / Web3.Storage
 
 ipfs daemon
