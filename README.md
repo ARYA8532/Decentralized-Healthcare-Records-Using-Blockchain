@@ -1,6 +1,7 @@
 Decentralized Healthcare Records Using Blockchain
 
 A secure, patient-centric eVault system built on Ethereum and IPFS to manage Electronic Health Records (EHRs).
+The integration of blockchain technology in healthcare has the potential to revolutionise the management of patient data by enhancing security, transparency, and accessibility. Traditional healthcare systems face challenges such as data breaches, lack of interoperability, and inefficiencies in record-keeping. Blockchain, with its decentralized and immutable ledger, offers a solution by enabling secure, tamper-proof, and transparent data transactions. This research explores the application of blockchain in healthcare, focusing on patient data security, interoperability among healthcare providers, and decentralized health record management. By leveraging smart contracts and cryptographic techniques, blockchain ensures that only allowed personnel can access and change sensitive medical information, reducing fraud and unauthorized alterations. The study also discusses the challenges of implementing blockchain, including scalability, regulatory compliance, and integration with existing healthcare infrastructures. Through an analysis of existing blockchain-based healthcare models, this research highlights how blockchain can enhance patient trust, improve data integrity, and create a more efficient and secure healthcare ecosystem.
 
 🔐 Features
 - Full patient ownership of medical records
